@@ -1,0 +1,9 @@
+     1. go to chrome
+     2. Press extensions
+     3. Press developer mode on ( in right corner)
+     4. press add extension
+     5. Then add this folder
+
+
+
+Then You should be good to go :D
